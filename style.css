@@ -1,0 +1,27 @@
+
+.logo{
+  margin-left: 25px
+}
+ 
+.nav-button{
+  padding-left: 28px;
+}
+.carousel-caption{
+  background-color: white;
+  width: 598px;
+  height: 200px;
+  color: black;
+  padding: 33px;
+  text-align: start;
+
+}
+.container-color{
+  color: #34B3F1;
+  font-weight: 800;
+}
+
+
+.container{
+  max-width: 900px;
+}
+
